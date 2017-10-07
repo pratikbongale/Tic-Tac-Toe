@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-An implementation of Tic-Tac-Toe game in Java using the MiniMax algorithm.
+An implementation of Tic-Tac-Toe game in Python using the MiniMax algorithm.
 
 This algorithm includes two modules:
 1. Implementation using General MiniMax algorithm
